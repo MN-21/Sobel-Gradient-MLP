@@ -50,24 +50,16 @@ We revisit whether **first-order edges alone** can support high-quality handwrit
 # Python 3.9+ recommended
 pip install --upgrade pip
 
-# Core deps
-pip install tensorflow tensorflow-datasets opencv-python tqdm scikit-learn numpy
+```
+## License
+This repository is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-Limitations
-Not rotation/shift invariant; modest perturbations can degrade accuracy.
-
-No robustness or energy/latency measurements reported here.
-
-Results are for MNIST and EMNIST Letters only.
-
-License
-This repository is licensed under the Apache License 2.0. See LICENSE.
-
-Contact
+## Contact
 Azam Nouri — azamnouri2024@gmail.com
 
-How to Cite
-If you use this repository, please cite:
+## How to Cite (Sobel-Gradient MLP)
+If you use the **Sobel-Gradient MLP** repository, please cite:
+```bibtex
 @misc{nouri2025sobelmlp,
   title        = {A Sobel-Gradient MLP Baseline for Handwritten Character Recognition},
   author       = {Nouri, Azam},

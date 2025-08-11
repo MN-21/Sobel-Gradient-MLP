@@ -6,7 +6,7 @@
 ---
 
 ## Abstract
-We revisit whether **first-order edges alone** can support high-quality handwritten character recognition (HCR). A compact, fully-connected MLP consumes only the two Sobel derivatives \((G_x, G_y)\) of \(28\times28\) images. Each channel is min–max normalized per image, concatenated, and flattened to a 1,568-D vector. With **no convolutions and no augmentation**, the model attains **98.0%** (MNIST) and **92.0%** (EMNIST Letters) in a single run under a stratified 80/20 split of TFDS train+test, indicating that much of the class-discriminative structure of digits/letters resides in **where** edges occur and **in which direction** they change.
+We revisit whether **first-order edges alone** can support high-quality handwritten character recognition (HCR). A compact, fully-connected MLP consumes only the two Sobel derivatives \((G_x, G_y)\) of \(28\times28\) images. Each channel is min–max normalized per image, concatenated, and flattened to a 1,568-D vector. With The model attains **98.0%** (MNIST) and **92.0%** (EMNIST Letters) in a single run under a stratified 80/20 split of TFDS train+test, indicating that much of the class-discriminative structure of digits/letters resides in **where** edges occur and **in which direction** they change.
 
 ---
 

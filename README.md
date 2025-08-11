@@ -39,9 +39,9 @@ We revisit whether **first-order edges alone** can support high-quality handwrit
 
 ## Notebooks
 - [`https://github.com/MN-21/Sobel-Gradient-MLP/blob/main/Sobel_Gradient_pipeline_MNIST.ipynb)  
-- [`notebooks/Sobel_Gradient_pipeline_MNIST.ipynb`](notebooks/Sobel_Gradient_pipeline_MNIST.ipynb)  
-- [`notebooks/Sobel_Gradient_pipeline_EMNIST_Letters.ipynb`](notebooks/Sobel_Gradient_pipeline_EMNIST_Letters.ipynb)  
-- [`notebooks/CNN_Baseline_EMNIST_Letters.ipynb`](notebooks/CNN_Baseline_EMNIST_Letters.ipynb)
+- [`https://github.com/MN-21/Sobel-Gradient-MLP/blob/main/Sobel_Gradient_pipeline_EMNIST_Letters.ipynb)  
+- [`https://github.com/MN-21/Sobel-Gradient-MLP/blob/main/CNN_Baseline_EMNIST_Letters%20(1).ipynb)  
+
 
 ---
 

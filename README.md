@@ -75,5 +75,3 @@ If you use this repository, please cite:
   howpublished = {\url{https://github.com/MN-21/Sobel-Gradient-MLP}},
   note         = {Code repository}
 }
-
-MIT License

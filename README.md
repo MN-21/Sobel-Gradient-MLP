@@ -27,7 +27,7 @@ We revisit whether **first-order edges alone** can support high-quality handwrit
 
 ---
 
-## Reproducibility (high-level)
+## Reproducibility
 - **Data:** MNIST; EMNIST Letters (via **TensorFlow Datasets — TFDS**)
 - **Split protocol:** Concatenate TFDS `train+test` → stratified 80/20 (`random_state=42`); Keras holds out 10% of the training portion for validation.
 - **Preprocessing:** scale pixels to \([0,1]\) `float32`; compute Sobel \(G_x, G_y\) (`ksize=3`); per-image, per-channel min–max to \([0,1]\).

@@ -1,6 +1,3 @@
-# Sobel-Gradient-MLP
-Code and resources for "A Sobel-Gradient MLP Baseline for Handwritten Character Recognition"
-
 # Sobel-Gradient MLP (MNIST & EMNIST Letters)
 
 **Code and resources for:**  

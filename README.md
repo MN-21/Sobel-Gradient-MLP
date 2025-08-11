@@ -55,3 +55,27 @@ pip install --upgrade pip
 # Core deps
 pip install tensorflow tensorflow-datasets opencv-python tqdm scikit-learn numpy
 
+Limitations
+Not rotation/shift invariant; modest perturbations can degrade accuracy.
+
+No robustness or energy/latency measurements reported here.
+
+Results are for MNIST and EMNIST Letters only.
+
+License
+This repository is licensed under the MIT License. See LICENSE.
+
+Contact
+Azam Nouri — azamnouri2024@gmail.com
+
+How to Cite
+If you use this repository, please cite:
+@misc{nouri2025sobelmlp,
+  title        = {A Sobel-Gradient MLP Baseline for Handwritten Character Recognition},
+  author       = {Nouri, Azam},
+  year         = {2025},
+  howpublished = {\url{https://github.com/MN-21/Sobel-Gradient-MLP}},
+  note         = {Code repository}
+}
+
+MIT License

@@ -61,7 +61,7 @@ No robustness or energy/latency measurements reported here.
 Results are for MNIST and EMNIST Letters only.
 
 License
-This repository is licensed under the MIT License. See LICENSE.
+This repository is licensed under the Apache License 2.0. See LICENSE.
 
 Contact
 Azam Nouri — azamnouri2024@gmail.com
